@@ -1,0 +1,18 @@
+.location-search-input{
+width : 100%;
+height : 30px;
+
+}
+.submit_button {
+    width:150px;
+}
+
+
+.report_box{ float:left; width:100%; padding-left: 16px;}
+.report_box h3{ text-transform: uppercase; padding-bottom: 20px; text-decoration: underline;}
+.report_box h4{ text-transform: uppercase;}
+.report_box li{ list-style:none; padding-bottom: 5px;}
+.left-right{
+    padding-right: 2.5px;
+    padding-left: 2.5px;
+}

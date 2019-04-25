@@ -1,0 +1,27 @@
+.location-search-input{
+width : 960px;
+height : 30px;
+
+}
+.createdDate{
+    width : 110px; 
+}
+
+.email-id{
+word-break: break-all;
+width : 300px; 
+
+}
+.s_number{
+ width : 55px;
+}
+
+.action{
+ width : 75px;
+}
+.sender_name{
+width : 120px;    
+}
+.submit_button{
+    width:150px;
+}

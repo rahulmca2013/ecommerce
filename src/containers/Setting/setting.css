@@ -1,0 +1,10 @@
+.location-search-input{
+width : 960px;
+height : 30px;
+
+}
+.submit_button {
+    width:150px;
+}
+.lb-left{display:block; float:left; width:25%; }
+.lb-right{display:block; float:left; width:75%;}

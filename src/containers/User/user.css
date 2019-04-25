@@ -1,0 +1,35 @@
+.s_number{
+ width : 55px;
+}
+.image{
+ width : 120px;
+}
+.email-id{
+word-break: break-all;
+
+}
+.group-name{
+word-break: break-all;
+
+}
+.contact_number{
+word-break: break-all;
+
+}
+.joined_date{
+word-break: break-all;
+
+}
+.user_city{
+  word-break: break-all;  
+}
+.lb-left{display:block; float:left; width:25%; }
+.lb-right{display:block; float:left; width:75%;}
+.left-right{
+    padding-right: 2.5px;
+    padding-left: 2.5px;
+};
+.action{
+    width: 250px;
+}
+
